@@ -17,7 +17,7 @@ from algoritma import (
 
 st.set_page_config(page_title="Kelompok 4 Kriptografi", page_icon="🔐", layout="wide")
 
-# ==================== CUSTOM CSS ====================  
+# ================== CUSTOM CSS ==================  
 st.markdown("""
 <style>
     body { font-family: 'Segoe UI', sans-serif; }
